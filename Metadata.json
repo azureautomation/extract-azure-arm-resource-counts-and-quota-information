@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 3803,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/extract-azure-arm-resource-counts-and-quota-information/master/ARMQuotas-V2.ps1",
+    "DownloadCount": 784,
+    "Id": "Extract-Azure-ARM-resource-4a9f3567",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 336,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-4-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script can be used to export all providers and resource type counts to a csv file along with the ARM VM quota information for each active Azure\u00a0location.Please update the file path variable to the required location depending on your system set-up.An out-gridview will be disp",
+    "Title": "Extract Azure ARM resource counts and quota information",
+    "UpdatedDate": "2017-7-26T00:00:00",
+    "Url": "https://github.com/azureautomation/extract-azure-arm-resource-counts-and-quota-information",
+    "UserTags": "Microsoft Azure, Quotas, Azure Resource Manager"
+}
